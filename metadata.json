@@ -1,0 +1,7 @@
+{
+  "name": "EmojiCrypt",
+  "description": "A secure and playful text encryption tool that transforms your secret messages into strings of emojis using AES encryption.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
